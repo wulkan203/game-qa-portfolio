@@ -1,10 +1,10 @@
 # BUG-001: [Short description of the bug]
 
 ## General information
-- Game:
+- Game: TheLastOfUs-BUG-001
 - Version:
-- Platform:
-- Date tested:
+- Platform: PlayStation 5
+- Date tested: 2026-10-14
 
 ## Environment
 - Game mode:
