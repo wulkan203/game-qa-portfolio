@@ -16,7 +16,7 @@ Beginner Game QA Tester building practical experience in manual game testing and
 ### Project 1: Independent Game Testing
 Game: To be added
 
-Platform: PC
+Platform: PC, PlayStation, Nintendo Swich, Android
 
 Test type: Manual testing
 
