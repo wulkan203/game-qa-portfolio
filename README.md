@@ -1,7 +1,7 @@
 # game-qa-portfolio
 
 ## About me
-Beginner Game QA Tester building practical experience in manual game testing and bug reporting.
+Beginner Game QA Tester building practical experience in manual game testing and bug reporting. Uses AI as a template for manual annotation
 
 ## Testing focus
 - Collision and map geometry
