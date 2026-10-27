@@ -19,7 +19,7 @@ break the vase before Ellie arrives
 2. Load the vase map scene
    
 ## Expected result
-Despite the vase being broken, Ellie still has an action queued up to make the vase, even though it’s no longer there.
+Ellie smashes a vase, even though it isn't actually there. You can hear the sounds of it breaking, along with reactions.
 
 
 ## Reproduction rate
