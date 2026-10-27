@@ -41,4 +41,4 @@ To the right, after exiting the building, there is a gate leading toward the bui
 
 
 ## Additional notes
-Add any relevant observations.
+It’s easy to overlook, but it’s worth fixing for the sake of quality.
