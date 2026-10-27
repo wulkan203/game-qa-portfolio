@@ -35,7 +35,11 @@ To the right, after exiting the building, there is a gate leading toward the bui
 - Justification:The game has been released, and it still hasn't been fixed.
 
 ## Evidence
-<img width="1920" height="1080" alt="dziura i swiatło" src="https://github.com/user-attachments/assets/66cad300-358c-4b6f-b971-3057dd51584f" />
+
+
+https://github.com/user-attachments/assets/098707a4-9730-44d6-b26c-37b29a6d4336
+
+
 
 
 
