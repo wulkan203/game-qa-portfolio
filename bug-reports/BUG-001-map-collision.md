@@ -1,4 +1,4 @@
-# BUG-001: [Short description of the bug]
+# BUG-001: [hole and light]
 
 ## General information
 - Game: TheLastOfUs-BUG-001
