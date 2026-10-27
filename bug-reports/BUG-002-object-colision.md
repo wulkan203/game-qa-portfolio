@@ -1,4 +1,4 @@
-# BUG-001: [Short description of the bug]
+# BUG-001: [vase]
 
 ## General information
 - Game: TheLastOfUs-BUG-002
