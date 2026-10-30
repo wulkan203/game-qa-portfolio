@@ -10,17 +10,12 @@ Beginner Game QA Tester building practical experience in manual game testing and
 - Reproduction of gameplay bugs
 - Writing structured bug reports
 - Functional testing and regression testing
-
-## Projects
-
+  
 ### Project 1: Independent Game Testing
-Game: To be added
 
 Platform: PC, PlayStation, Nintendo Swich, Android
 
 Test type: Manual testing
-
-Status: In progress
 
 Bug reports: To be added
 
