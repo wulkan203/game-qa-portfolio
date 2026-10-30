@@ -2,7 +2,7 @@
 
 ## General information
 - Game: TheLastOfUs-BUG-004
-- Version:
+- Version: 1.11
 - Platform: PlayStation 5
 - Date tested: 2026-10-30
 
