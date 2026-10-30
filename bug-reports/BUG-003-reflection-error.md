@@ -1,4 +1,4 @@
-# BUG-001: [reflection]
+# BUG-003: [reflection]
 
 ## General information
 - Game: TheLastOfUs-BUG-003
