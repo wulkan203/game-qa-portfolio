@@ -38,5 +38,9 @@ Physical inconsistency amidst a flutter of yellow tapes
 
 
 
+https://github.com/user-attachments/assets/ddcfec37-7634-4ebc-9f34-309ef723892d
+
+
+
 ## Additional notes
 It’s easy to overlook, but it’s worth fixing for the sake of quality.
