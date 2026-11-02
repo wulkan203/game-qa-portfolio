@@ -21,7 +21,6 @@ Bug reports: To be added
 
 ## Tools
 - GitHub
-- Markdown
 - Screenshots and screen recordings
 
 ## Disclaimer
